@@ -1,6 +1,6 @@
 # How to... fix a Moulinex Solea Coffee Maker
 
-<img src="moulinex-solea.jpg"/>
+<img src="moulinex-solea.jpg" alt="Moulinex Solea CG3" />
 
 ## The usual problem
 
