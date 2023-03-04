@@ -35,7 +35,7 @@ After removing the bottom plate you should see the above picture. Now you only h
 
 <img src="heating-plate-dismounted.jpg" />
 
-Cut off the flat connectors from the replacement heater and attach existing round connectors again. That's it. 
+Cut off the flat connectors from the replacement heater and attach the existing round connectors which will perfectly fit. That's it. 
 
 Mount the bottom plate again and enjoy another 25 years with a beautiful coffee maker that you can't buy today anymore because available now is black and boring.
 
