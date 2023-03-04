@@ -14,7 +14,7 @@ After 25 years the aluminium heating pad breaks and leaks water.
 
 **Fun fact:** after all the investigations and searching for replacement parts, I learned that all coffee makers of the world seem to use only three different heating elements. 
 
-So it's really easy to replace them. Only the dimensions (length/width/power) matter. In this case you need a heating element of 110mm length and 80mm width with 900W power. That's it. 
+So it's really easy to replace them. Only the dimensions (length/width/power) matter. In this case you need a heating element of 110mm length and 80mm width with 900W power. That's it. I paid ~13€ for mine... but with some more research you might get it even cheaper.
 
 I ordered one that was labeled as "DeLonghi"... but it was exactly the same heater that Moulinex used for this machine.
 
