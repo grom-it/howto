@@ -41,4 +41,4 @@ Mount the bottom plate again and enjoy another 25 years with a beautiful coffee 
 
 ## You wonder about the yellow water indicator ball?
 
-It's a hollow 3D-printed ball with a diameter of 6mm. 
+It's a hollow 3D-printed ball with a diameter of 6mm. Printing time: 3m. ;) 
