@@ -31,7 +31,7 @@ Just order it via ebay and watch for the correct dimensions.
 ...is so trivial... the whole machine is kept together by only three screws and some metal latches. 
 
 **Challenge:** the screws are PZ2, PZ1 and a security Torx screw with an inner hole.
-After removing the bottom plate you should see above picture. Now you only have to remove the spring steel lock.
+After removing the bottom plate you should see the above picture. Now you only have to remove the spring steel lock.
 
 <img src="heating-plate-dismounted.jpg" />
 
