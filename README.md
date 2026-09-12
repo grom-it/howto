@@ -1,5 +1,8 @@
-# I love to repair things and fuck the built-in obsolescence!
+# Easy solutions to (un)common problems
 
-That's why I start collecting repair manuals here... not for every device that exists but at least for my own ones.
+A wild mix of repair manuals, helper scripts and whatever does not need to be invented again.
 
 * [Moulinex Solea Kaffeemaschine](solea/README.md)
+* [MS Teams remote control script](teams/teams-hotkey.py)
+
+
